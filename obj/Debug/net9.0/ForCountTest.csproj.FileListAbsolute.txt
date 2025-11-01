@@ -1,0 +1,14 @@
+D:\Familia\Cosas Mias\Archivos\Programación\C#\For\ForCountTest\bin\Debug\net9.0\ForCountTest.exe
+D:\Familia\Cosas Mias\Archivos\Programación\C#\For\ForCountTest\bin\Debug\net9.0\ForCountTest.deps.json
+D:\Familia\Cosas Mias\Archivos\Programación\C#\For\ForCountTest\bin\Debug\net9.0\ForCountTest.runtimeconfig.json
+D:\Familia\Cosas Mias\Archivos\Programación\C#\For\ForCountTest\bin\Debug\net9.0\ForCountTest.dll
+D:\Familia\Cosas Mias\Archivos\Programación\C#\For\ForCountTest\bin\Debug\net9.0\ForCountTest.pdb
+D:\Familia\Cosas Mias\Archivos\Programación\C#\For\ForCountTest\obj\Debug\net9.0\ForCountTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Familia\Cosas Mias\Archivos\Programación\C#\For\ForCountTest\obj\Debug\net9.0\ForCountTest.AssemblyInfoInputs.cache
+D:\Familia\Cosas Mias\Archivos\Programación\C#\For\ForCountTest\obj\Debug\net9.0\ForCountTest.AssemblyInfo.cs
+D:\Familia\Cosas Mias\Archivos\Programación\C#\For\ForCountTest\obj\Debug\net9.0\ForCountTest.csproj.CoreCompileInputs.cache
+D:\Familia\Cosas Mias\Archivos\Programación\C#\For\ForCountTest\obj\Debug\net9.0\ForCountTest.dll
+D:\Familia\Cosas Mias\Archivos\Programación\C#\For\ForCountTest\obj\Debug\net9.0\refint\ForCountTest.dll
+D:\Familia\Cosas Mias\Archivos\Programación\C#\For\ForCountTest\obj\Debug\net9.0\ForCountTest.pdb
+D:\Familia\Cosas Mias\Archivos\Programación\C#\For\ForCountTest\obj\Debug\net9.0\ForCountTest.genruntimeconfig.cache
+D:\Familia\Cosas Mias\Archivos\Programación\C#\For\ForCountTest\obj\Debug\net9.0\ref\ForCountTest.dll
