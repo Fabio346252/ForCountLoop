@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Familia\\Cosas Mias\\Archivos\\Programación\\C#\\For\\ForCountTest\\ForCountTest.csproj": {}
+    "D:\\Familia\\Cosas Mias\\Archivos\\Programación\\C#\\ForExperiments\\ForCountTest\\ForCountTest.csproj": {}
   },
   "projects": {
-    "D:\\Familia\\Cosas Mias\\Archivos\\Programación\\C#\\For\\ForCountTest\\ForCountTest.csproj": {
+    "D:\\Familia\\Cosas Mias\\Archivos\\Programación\\C#\\ForExperiments\\ForCountTest\\ForCountTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Familia\\Cosas Mias\\Archivos\\Programación\\C#\\For\\ForCountTest\\ForCountTest.csproj",
+        "projectUniqueName": "D:\\Familia\\Cosas Mias\\Archivos\\Programación\\C#\\ForExperiments\\ForCountTest\\ForCountTest.csproj",
         "projectName": "ForCountTest",
-        "projectPath": "D:\\Familia\\Cosas Mias\\Archivos\\Programación\\C#\\For\\ForCountTest\\ForCountTest.csproj",
+        "projectPath": "D:\\Familia\\Cosas Mias\\Archivos\\Programación\\C#\\ForExperiments\\ForCountTest\\ForCountTest.csproj",
         "packagesPath": "C:\\Users\\Fabio\\.nuget\\packages\\",
-        "outputPath": "D:\\Familia\\Cosas Mias\\Archivos\\Programación\\C#\\For\\ForCountTest\\obj\\",
+        "outputPath": "D:\\Familia\\Cosas Mias\\Archivos\\Programación\\C#\\ForExperiments\\ForCountTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
