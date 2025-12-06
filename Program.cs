@@ -1,9 +1,9 @@
-﻿using System;
+﻿//TODO: Add exception manager and handling for invalid inputs or errorsç
+
+
 namespace ForCountTest;
 class Program
 {
-    
-    //TODO: Add exception manager and handling for invalid inputs or errors
     static void Main(string[] args)
     {
         //! This program puts examples to the utility of for loops, if you want to modify someting you can made it
@@ -15,14 +15,16 @@ class Program
         int[] options = {1, 2};
         var user_selection  = Console.ReadLine();
         
-        if (user_selection == "1") //TODO: Change this to, add every option in a single if and make the options variable work with options, objective: enhance program performance and legibility
+        switch (user_selection)
         {
-            Number();
+            case "1":
+                Number();
+                break;
+            case "2":
+                MultipleOf7();
+                break;
         }
-        else if (user_selection == "2")
-        {
-            MultipleOf7();
-        }
+
         Console.WriteLine("End of program, press any key to exit...");
         Console.ReadKey();
     }

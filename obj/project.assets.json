@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Familia\\Cosas Mias\\Archivos\\Programación\\C#\\ForExperiments\\ForCountTest\\ForCountTest.csproj",
+      "projectUniqueName": "C:\\Users\\Fabio\\OneDrive\\Documentos\\GitHub\\ForCountLoop\\ForCountTest.csproj",
       "projectName": "ForCountTest",
-      "projectPath": "D:\\Familia\\Cosas Mias\\Archivos\\Programación\\C#\\ForExperiments\\ForCountTest\\ForCountTest.csproj",
+      "projectPath": "C:\\Users\\Fabio\\OneDrive\\Documentos\\GitHub\\ForCountLoop\\ForCountTest.csproj",
       "packagesPath": "C:\\Users\\Fabio\\.nuget\\packages\\",
-      "outputPath": "D:\\Familia\\Cosas Mias\\Archivos\\Programación\\C#\\ForExperiments\\ForCountTest\\obj\\",
+      "outputPath": "C:\\Users\\Fabio\\OneDrive\\Documentos\\GitHub\\ForCountLoop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
